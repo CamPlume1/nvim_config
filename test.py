@@ -1,5 +1,10 @@
 class a_class():
 
-     
-    def __init__():
-       pass 
+
+    def __init__(self):
+        pass
+
+
+
+
+
