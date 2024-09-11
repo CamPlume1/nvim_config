@@ -1,6 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 Plug 'neovim/nvim-lspconfig'
-Plug 'hrsh7th/nvim-cmp'  " Removed duplicate
+Plug 'hrsh7th/nvim-cmp'  " 
 Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-buffer'
 Plug 'hrsh7th/cmp-path'
