@@ -1,0 +1,9 @@
+Key To-do's for this nvim config:
+
+
+1: I want a hotkey to vertically split a file from my file tree
+2: I want lsp support for vim commands, not just my language commands
+3: I want a hotkey for :belowright split | terminal
+4: I want to have a startup flow that automatically opens my terminal in the current working directory.
+5: I want to havae a startup flow that automatically opens my file tree
+6: I want to hotkey window toggling in a better way
